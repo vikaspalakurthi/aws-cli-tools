@@ -1,0 +1,10 @@
+[
+  {
+    "Name": "instance-type",
+    "Values": ["m1.small", "m1.medium"]
+  },
+  {
+    "Name": "availability-zone",
+    "Values": ["us-west-2c"]
+  }
+]
